@@ -1,0 +1,16 @@
+name
+first last 
+email
+
+phone number
+
+section name
+e w f i 
+submit b*
+
+location 
+trirnciti
+
+date
+day / month/ year 
+boook b*
